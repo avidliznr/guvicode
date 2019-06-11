@@ -4,7 +4,7 @@ int main()
 
 int num;
 scanf("%d",&num);
-if(isdigit(num%10)){
+if(num>0){
 	if(! num%2==0)
 		printf("Odd");
 	else
