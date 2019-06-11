@@ -5,6 +5,6 @@ if char in alphabets:
 	if char in vov:
 		print('Vowel')
 	else:
-		print('Alphabet')
+		print('Consonant')
 else:
 	print('invalid')
