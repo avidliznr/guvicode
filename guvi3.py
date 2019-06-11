@@ -1,5 +1,5 @@
 char = input()
-alphabets = 'abcdefghijklmnopqrsvutwxyz'
+alphabets = 'abcdefghijklmnopqrsvutwxzy'
 vov = 'aeiou'
 if char in alphabets:
 	if char in vov:
